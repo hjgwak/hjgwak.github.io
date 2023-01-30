@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   bioinformatics, metagenome, deep-learning
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://hjgwak.github.io'
+url: 'https://blog.hjgwak.com'
 
 github:
   username: hjgwak             # change to your github username
