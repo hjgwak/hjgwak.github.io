@@ -2,7 +2,7 @@
 layout: compress
 ---
 
-{% assign favicon_path = "/assets/img/favicons" %}
+{% assign favicon_path = "/assets/img/favicons" | relative_url %}
 
 {
   "name": "{{ site.title }}",
@@ -19,7 +19,7 @@ layout: compress
       "sizes": "512x512",
       "type": "image/png"
     }],
-  "start_url": "{{ '/index.html' }}",
+  "start_url": "{{ '/index.html' | relative_url }}",
   "theme_color": "#2a1e6b",
   "background_color": "#ffffff",
   "display": "fullscreen"
