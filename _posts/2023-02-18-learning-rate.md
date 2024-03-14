@@ -3,7 +3,7 @@ title: "[Pytorch] Learning rate 관리하기"
 author: Johin
 date: 2023-02-18 22:00:00 +0900
 categories: [Programming, Pytorch]
-tags: [python, pytorch, pytorch_lightning, machine_learning, deep_learning]
+tags: [python, pytorch, pytorch_lightning, machine learning, deep-learning]
 ---
 
 > PyTorch, Pytorch-lightning을 이용해서 프로젝트를 진행하고 있는데  
