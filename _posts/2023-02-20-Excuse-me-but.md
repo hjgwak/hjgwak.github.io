@@ -4,6 +4,7 @@ author: Johin
 date: 2023-02-20 23:00:00 +0900
 categories: [Personal, English]
 tags: [speak, 스픽]
+published: false
 ---
 
 # Excuse me, but ...
